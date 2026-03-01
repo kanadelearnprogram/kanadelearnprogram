@@ -1,7 +1,10 @@
 ##  /(ㄒoㄒ)/~~
 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kanadelearnprogram&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kanadelearnprogram&show_icons=true&hide_border=true&theme=catppuccin_mocha&border_radius=15&locale=zh-CN" alt="统计" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanadelearnprogram&layout=compact&hide_border=true&theme=catppuccin_mocha&border_radius=15&locale=zh-CN" alt="语言" width="48%" />
+</p>
 <div id="title">
 
 ![modern cpp](https://img.shields.io/badge/code-Java-blue)
