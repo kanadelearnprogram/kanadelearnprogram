@@ -1,5 +1,7 @@
 ##  /(ㄒoㄒ)/~~
 
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kanadelearnprogram&show_icons=true&theme=radical)
 <div id="title">
 
 ![modern cpp](https://img.shields.io/badge/code-Java-blue)
