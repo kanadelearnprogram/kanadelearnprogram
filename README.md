@@ -1,19 +1,26 @@
-##  /(ㄒoㄒ)/~~
+<div align="center">
 
+# /(ㄒoㄒ)/~~ 编程萌新报到
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kanadelearnprogram&show_icons=true&hide_border=true&theme=catppuccin_mocha&border_radius=15&locale=zh-CN" alt="统计" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanadelearnprogram&layout=compact&hide_border=true&theme=catppuccin_mocha&border_radius=15&locale=zh-CN" alt="语言" width="48%" />
-</p>
-<div id="title">
+### 📌 基础信息
+![Java](https://img.shields.io/badge/code-Java-blue?style=flat-square)
+![状态](https://img.shields.io/badge/状态-摆烂学习中-yellow?style=flat-square)
+![性格](https://img.shields.io/badge/性格-开朗随和-red?style=flat-square)
+![爱好](https://img.shields.io/badge/爱好-二次元|追剧-red?style=flat-square)
 
-![modern cpp](https://img.shields.io/badge/code-Java-blue)
-![](https://img.shields.io/badge/讨厌-学习-yellow) 
-![](https://img.shields.io/badge/性格-开朗-red) 
-![](https://img.shields.io/badge/爱好-二次元-red)
+### 📚 学习进度
+![学习中](https://img.shields.io/badge/学习-Java基础-lightgrey?style=flat-square)
+![目标](https://img.shields.io/badge/目标-慢慢变强-green?style=flat-square)
+![摸鱼](https://img.shields.io/badge/日常-偶尔摸鱼-purple?style=flat-square)
+
+---
+
+### 📊 访客统计
+![Visitor Count](https://komarev.com/ghpvc/?username=kanadelearnprogram&color=ff4081)
+
+### 💬 小语录
+菜但热爱，慢慢学，总会变强哒！٩(๑òωó๑)۶
 
 </div>
-
-![visit counter](https://komarev.com/ghpvc/?username=kanadelearnprogram&color=ee0000)
 
 
